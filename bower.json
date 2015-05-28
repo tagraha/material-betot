@@ -1,0 +1,24 @@
+{
+  "name": "materialbetot",
+  "description": "Betot's bower package angular material",
+  "kewords": [
+    "betot"
+  ],
+  "authors": [
+    "Betot"
+  ],
+  "license": "MIT",
+  "main": [
+    "material.min.js"
+  ],
+  "repository": {
+    "type": "git"
+  },
+  "ignore": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
+
