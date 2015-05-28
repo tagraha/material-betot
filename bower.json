@@ -4,6 +4,7 @@
   "kewords": [
     "betot"
   ],
+  "version": "0.9.4",
   "authors": [
     "Betot"
   ],
@@ -21,4 +22,3 @@
   "devDependencies": {
   }
 }
-
